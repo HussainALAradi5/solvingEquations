@@ -14,13 +14,13 @@
 
 ---
 
-### **_Technologies Used_**
+### **_Technologies and Tools Used_**
 
 - JS( as its the languge that i use here)
 -React(library )
 -CSS
 -HTML
-
+-Vite (for initilize the React for me)
 ---
 
 ### **_Getting Started_**
